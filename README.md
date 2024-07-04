@@ -28,4 +28,4 @@ I have considerable experience in languages such as Python <a href="https://www.
 </a> 
 
 # 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonPauloAndrade&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonPauloAndrade&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonPauloAndrade&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonPauloAndrade&layout=compact).
